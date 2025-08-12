@@ -8,6 +8,6 @@ const produtosSchema = Joi.object({
         descricao: Joi.string(),
         quantidade: Joi.number(),
         _id: Joi.string()
-    })
+    }),
 })
 export default produtosSchema;
