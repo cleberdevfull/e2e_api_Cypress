@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Nenhum teste definido\"",
     "start": "npx serverest",
     "cy:run": "npx cypress run"
   },
